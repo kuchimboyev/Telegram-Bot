@@ -1,0 +1,261 @@
+{
+  "users": {
+    "5734785343": {
+      "id": 5734785343,
+      "username": "Kuchimboyev",
+      "first_name": "𝗞𝘂𝗰𝗵𝗶𝗺𝗯𝗼𝘆𝗲𝘃",
+      "custom_name": null,
+      "phone": "998908205720",
+      "is_admin": true,
+      "subscribed_ok": true,
+      "joined_at": "2026-09-19 15:42"
+    },
+    "8513583894": {
+      "id": 8513583894,
+      "username": "Fuuuuhh",
+      "first_name": "Kuchimboyev",
+      "custom_name": null,
+      "phone": "+14122543872",
+      "is_admin": false,
+      "subscribed_ok": true,
+      "joined_at": "2026-09-19 15:43"
+    },
+    "8387237596": {
+      "id": 8387237596,
+      "username": "Abdirahmonov_08",
+      "first_name": "Sohib",
+      "custom_name": null,
+      "phone": "998772252266",
+      "is_admin": false,
+      "subscribed_ok": true,
+      "joined_at": "2026-09-19 15:52"
+    },
+    "8561959489": {
+      "id": 8561959489,
+      "username": "F7abduqodirovv",
+      "first_name": "7abduqodirovv_",
+      "custom_name": null,
+      "phone": "998772341612",
+      "is_admin": false,
+      "subscribed_ok": true,
+      "joined_at": "2026-09-19 15:54"
+    },
+    "8504717745": {
+      "id": 8504717745,
+      "username": "narkhu1ova",
+      "first_name": "Narkhulova",
+      "custom_name": null,
+      "phone": "998888138488",
+      "is_admin": false,
+      "subscribed_ok": true,
+      "joined_at": "2026-09-19 15:59"
+    }
+  },
+  "ready_users": [],
+  "pending_questions": [],
+  "current_test": null,
+  "history": [
+    {
+      "id": 1,
+      "questions": [
+        {
+          "text": "Islom dini qaysi yarim orolda vujudga kelgan?",
+          "options": [
+            "Fors yarim oroli",
+            "Arabiston yarim oroli",
+            "Kichik Osiyo",
+            "Balqon yarim oroli"
+          ],
+          "correct": 1
+        },
+        {
+          "text": "Buddizm dini asoschisi kim hisoblanadi?",
+          "options": [
+            "Konfutsiy",
+            "Zardusht",
+            "Siddxartxa Gautama (Budda)",
+            "Lao Szi"
+          ],
+          "correct": 2
+        },
+        {
+          "text": "Xristianlik dinining muqaddas kitobi qanday nomlanadi?",
+          "options": [
+            "Injil",
+            "Tavrot",
+            "Zabur",
+            "Qur'on"
+          ],
+          "correct": 0
+        },
+        {
+          "text": "Yahudiylik dinining muqaddas kitobi qanday ataladi?",
+          "options": [
+            "Injil",
+            "Tavrot (Tanax)",
+            "Avesto",
+            "Veda"
+          ],
+          "correct": 1
+        },
+        {
+          "text": "Zardushtiylik dini qaysi hududda paydo bo'lgan deb hisoblanadi?",
+          "options": [
+            "Qadimgi Misr",
+            "Qadimgi Xitoy",
+            "Qadimgi Eron",
+            "Qadimgi Yunoniston"
+          ],
+          "correct": 2
+        }
+      ],
+      "participants": {
+        "8513583894": {
+          "name": "Kuchimboyev",
+          "score": 1,
+          "answered": 5,
+          "total_time": 34.65390396118164
+        }
+      },
+      "current_q_index": 4,
+      "status": "finished",
+      "started_at": "2026-09-19 15:46",
+      "finished_at": "2026-09-19 15:49"
+    },
+    {
+      "id": 2,
+      "questions": [
+        {
+          "text": "Islom dini qaysi yarim orolda vujudga kelgan?",
+          "options": [
+            "Fors yarim oroli",
+            "Arabiston yarim oroli",
+            "Kichik Osiyo",
+            "Balqon yarim oroli"
+          ],
+          "correct": 1
+        },
+        {
+          "text": "Buddizm dini asoschisi kim hisoblanadi?",
+          "options": [
+            "Konfutsiy",
+            "Zardusht",
+            "Siddxartxa Gautama (Budda)",
+            "Lao Szi"
+          ],
+          "correct": 2
+        },
+        {
+          "text": "Xristianlik dinining muqaddas kitobi qanday nomlanadi?",
+          "options": [
+            "Injil",
+            "Tavrot",
+            "Zabur",
+            "Qur'on"
+          ],
+          "correct": 0
+        },
+        {
+          "text": "Yahudiylik dinining muqaddas kitobi qanday ataladi?",
+          "options": [
+            "Injil",
+            "Tavrot (Tanax)",
+            "Avesto",
+            "Veda"
+          ],
+          "correct": 1
+        },
+        {
+          "text": "Zardushtiylik dini qaysi hududda paydo bo'lgan deb hisoblanadi?",
+          "options": [
+            "Qadimgi Misr",
+            "Qadimgi Xitoy",
+            "Qadimgi Eron",
+            "Qadimgi Yunoniston"
+          ],
+          "correct": 2
+        }
+      ],
+      "participants": {
+        "8387237596": {
+          "name": "Sohib",
+          "score": 0,
+          "answered": 0,
+          "total_time": 0.0
+        }
+      },
+      "current_q_index": 4,
+      "status": "finished",
+      "started_at": "2026-09-19 15:53",
+      "finished_at": "2026-09-19 15:55"
+    },
+    {
+      "id": 3,
+      "questions": [
+        {
+          "text": "Islom dini qaysi yarim orolda vujudga kelgan?",
+          "options": [
+            "Fors yarim oroli",
+            "Arabiston yarim oroli",
+            "Kichik Osiyo",
+            "Balqon yarim oroli"
+          ],
+          "correct": 1
+        },
+        {
+          "text": "Buddizm dini asoschisi kim hisoblanadi?",
+          "options": [
+            "Konfutsiy",
+            "Zardusht",
+            "Siddxartxa Gautama (Budda)",
+            "Lao Szi"
+          ],
+          "correct": 2
+        },
+        {
+          "text": "Xristianlik dinining muqaddas kitobi qanday nomlanadi?",
+          "options": [
+            "Injil",
+            "Tavrot",
+            "Zabur",
+            "Qur'on"
+          ],
+          "correct": 0
+        },
+        {
+          "text": "Yahudiylik dinining muqaddas kitobi qanday ataladi?",
+          "options": [
+            "Injil",
+            "Tavrot (Tanax)",
+            "Avesto",
+            "Veda"
+          ],
+          "correct": 1
+        },
+        {
+          "text": "Zardushtiylik dini qaysi hududda paydo bo'lgan deb hisoblanadi?",
+          "options": [
+            "Qadimgi Misr",
+            "Qadimgi Xitoy",
+            "Qadimgi Eron",
+            "Qadimgi Yunoniston"
+          ],
+          "correct": 2
+        }
+      ],
+      "participants": {
+        "8504717745": {
+          "name": "Narkhulova",
+          "score": 0,
+          "answered": 0,
+          "total_time": 0.0
+        }
+      },
+      "current_q_index": 4,
+      "status": "finished",
+      "started_at": "2026-09-19 16:00",
+      "finished_at": "2026-09-19 16:02"
+    }
+  ],
+  "next_test_id": 4
+}
